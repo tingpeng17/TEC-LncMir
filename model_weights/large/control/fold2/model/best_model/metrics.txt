@@ -1,0 +1,1 @@
+Report of model: accuracy: 0.9424,sensitivity: 0.9477,specificity: 0.9373,ppv: 0.9365,npv: 0.9484,F1 score: 0.9421,mcc: 0.8850
