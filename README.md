@@ -15,6 +15,12 @@ conda env create --file environment.yml
 conda activate TEC_LncMir
 ```
 
+### Setup torch
+
+```
+pip install torch==1.13.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
 ### Prepare the folders for code running
 
 ```
