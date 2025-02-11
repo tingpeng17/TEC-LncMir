@@ -1,5 +1,6 @@
 # TEC_LncMir
 TEC_LncMir is a deep learning model to predict interactions between lncRNAs and microRNAs based on the Transformer Encoder and convolutional neural networks (CNNs). TEC_LncMir uses the sequences of lncRNAs and microRNAs as the inputs and predicts the interaction probabilities between lncRNAs and microRNAs. If you use TEC_LncMir in your work, please cite the following publication:
+
 Tingpeng Yang, Yonghong He, Yu Wang, Introducing TEC-LncMir for prediction of lncRNA-miRNA interactions through deep learning of RNA sequences, Briefings in Bioinformatics, Volume 26, Issue 1, January 2025, bbaf046, https://doi.org/10.1093/bib/bbaf046
 # The usage of our code
 ## Preparation: 
